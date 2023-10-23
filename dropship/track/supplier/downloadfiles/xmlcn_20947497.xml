@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doc>
+	<CreditNotes>
+		<CreditNote>
+			<Vendor ID="6001299000010">CLOVER S.A MASTER</Vendor>
+			<CreditNoteNumber>109616475</CreditNoteNumber>
+			<CreditNoteDate>2023/04/19</CreditNoteDate>
+			<TotalCostExcl>-360</TotalCostExcl>
+			<TotalVat>-54</TotalVat>
+			<TotalCostIncl>-414</TotalCostIncl>
+			<Depot ID="0">CLOVER S.A MASTER</Depot>
+			<Credits>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Credit>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Credit>
+			</Credits>
+			<Debits>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Debit>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Debit>
+			</Debits>
+			<References>
+				<ClaimNo>80156/204066/235631</ClaimNo>
+				<ClaimDate></ClaimDate>
+				<ClaimType></ClaimType>
+				<InvoiceNo>0</InvoiceNo>
+				<InvoiceDate></InvoiceDate>
+				<Items>
+					<Item>
+						<ItemNum>1</ItemNum>
+						<Qty>24</Qty>
+						<CostPer>-15</CostPer>
+						<CostUnitMeasure></CostUnitMeasure>
+						<GrossCst>-360</GrossCst>
+						<Vat>15</Vat>
+						<VatAmt></VatAmt>
+						<NetPrice></NetPrice>
+						<ReasonDescr>Goods Returned (Physical Stock) See Code List 10</ReasonDescr>
+						<GoodsReturnDescr></GoodsReturnDescr>
+						<Narratives>
+							<Narrative>
+								<Description></Description>
+							</Narrative>
+						</Narratives>
+						<Discounts>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage></Percentage>
+								<Value></Value>
+							</Discount>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage></Percentage>
+								<Value></Value>
+							</Discount>
+						</Discounts>
+					</Item>
+				</Items>
+			</References>
+		</CreditNote>
+	</CreditNotes>
+	<Products>
+		<Prod>
+			<ProdItemNo>1</ProdItemNo>
+			<Barcode></Barcode>
+			<SuppItemNo>9000999</SuppItemNo>
+			<ItemDesc>CRATES PLASTIC BIG 402</ItemDesc>
+		</Prod>
+	</Products>
+	<PastOrders/>
+</Doc>

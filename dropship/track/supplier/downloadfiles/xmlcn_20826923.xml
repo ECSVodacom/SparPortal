@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doc>
+	<CreditNotes>
+		<CreditNote>
+			<Vendor ID="6004932040695">SCHEDULE - SODASTREAM SA (PTY) LTD</Vendor>
+			<CreditNoteNumber>10681</CreditNoteNumber>
+			<CreditNoteDate>2023/03/28</CreditNoteDate>
+			<TotalCostExcl>18350.96</TotalCostExcl>
+			<TotalVat>-2752.64</TotalVat>
+			<TotalCostIncl>21103.6</TotalCostIncl>
+			<Depot ID="0">SCHEDULE - SODASTREAM SA (PTY) LTD</Depot>
+			<Credits>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage>0</Percentage>
+					<Value>0</Value>
+				</Credit>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage>0</Percentage>
+					<Value>0</Value>
+				</Credit>
+			</Credits>
+			<Debits>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage>0</Percentage>
+					<Value>0</Value>
+				</Debit>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage>0</Percentage>
+					<Value>0</Value>
+				</Debit>
+			</Debits>
+			<References>
+				<ClaimNo>30244 /56262</ClaimNo>
+				<ClaimDate></ClaimDate>
+				<ClaimType>RFC</ClaimType>
+				<InvoiceNo></InvoiceNo>
+				<InvoiceDate></InvoiceDate>
+				<Items>
+					<Item>
+						<ItemNum>1</ItemNum>
+						<Qty>0</Qty>
+						<CostPer>18350.96</CostPer>
+						<CostUnitMeasure></CostUnitMeasure>
+						<GrossCst>0</GrossCst>
+						<Vat>15</Vat>
+						<VatAmt>0</VatAmt>
+						<NetPrice>0</NetPrice>
+						<ReasonDescr></ReasonDescr>
+						<GoodsReturnDescr></GoodsReturnDescr>
+						<Narratives>
+							<Narrative>
+								<Description></Description>
+							</Narrative>
+						</Narratives>
+						<Discounts>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage>0</Percentage>
+								<Value>0</Value>
+							</Discount>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage>0</Percentage>
+								<Value>0</Value>
+							</Discount>
+						</Discounts>
+					</Item>
+				</Items>
+			</References>
+		</CreditNote>
+	</CreditNotes>
+	<Products>
+		<Prod>
+			<ProdItemNo>1</ProdItemNo>
+			<Barcode></Barcode>
+			<SuppItemNo></SuppItemNo>
+			<ItemDesc>Credit Purchases</ItemDesc>
+		</Prod>
+	</Products>
+	<PastOrders/>
+</Doc>

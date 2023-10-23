@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doc>
+	<CreditNotes>
+		<CreditNote>
+			<Vendor ID="NUCEDLIQUORSR">SCHEDULE - NAMAQUA WINES SA (PTY)LTD</Vendor>
+			<CreditNoteNumber>C499846</CreditNoteNumber>
+			<CreditNoteDate>2023/02/23</CreditNoteDate>
+			<TotalCostExcl>481.7</TotalCostExcl>
+			<TotalVat>72.26</TotalVat>
+			<TotalCostIncl>553.96</TotalCostIncl>
+			<Depot ID="0">SCHEDULE - NAMAQUA WINES SA (PTY)LTD</Depot>
+			<Credits>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Credit>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Credit>
+			</Credits>
+			<Debits>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Debit>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Debit>
+			</Debits>
+			<References>
+				<ClaimNo></ClaimNo>
+				<ClaimDate></ClaimDate>
+				<ClaimType></ClaimType>
+				<InvoiceNo>1168896/I1883441</InvoiceNo>
+				<InvoiceDate></InvoiceDate>
+				<Items>
+					<Item>
+						<ItemNum>1</ItemNum>
+						<Qty>0</Qty>
+						<CostPer>481.7</CostPer>
+						<CostUnitMeasure></CostUnitMeasure>
+						<GrossCst>0</GrossCst>
+						<Vat>15</Vat>
+						<VatAmt></VatAmt>
+						<NetPrice></NetPrice>
+						<ReasonDescr>Goods Returned (Physical Stock) See Code List 10</ReasonDescr>
+						<GoodsReturnDescr></GoodsReturnDescr>
+						<Narratives>
+							<Narrative>
+								<Description></Description>
+							</Narrative>
+						</Narratives>
+						<Discounts>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage></Percentage>
+								<Value></Value>
+							</Discount>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage></Percentage>
+								<Value></Value>
+							</Discount>
+						</Discounts>
+					</Item>
+				</Items>
+			</References>
+		</CreditNote>
+	</CreditNotes>
+	<Products>
+		<Prod>
+			<ProdItemNo>1</ProdItemNo>
+			<Barcode></Barcode>
+			<SuppItemNo></SuppItemNo>
+			<ItemDesc>Credit Purchases</ItemDesc>
+		</Prod>
+	</Products>
+	<PastOrders/>
+</Doc>

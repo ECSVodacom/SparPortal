@@ -1,0 +1,24 @@
+
+STORE NAME	SUPPLIER NAME	CREDITNOTENO	CCREDITNOTE DATE	DISCPERC1	DISCPERC2	TRANSFERPERC	DUTYPERC	TOTAL COST
+LADY FRERE SPAR	THE SIMBA GROUP	CN01963219	2023/04/18					961.4345	
+
+CLAIM NO	CLAIM DATE	CLAIM TYPE	INVOICE NO	INVOICE DATE
+40348 /124925					
+  
+PRODUCT DESCRIPTION	PRODUCT CODE / ITEM CODE	QUANTITY	DEALPERC1	DEALPERC2	UNIT COST	LINE COST	REASON DESCR	GOODS RETURN DESCR
+NIKN CHEESE 25X5X22G	005425	0			9.18		Goods Returned (Physical Stock) See Code List 10	
+SIMB PN SALTED 24X150G	003347	0			16.2292		Goods Returned (Physical Stock) See Code List 10	
+SIMB PN RS SALTED 12X450G	003349	0			33.3333		Goods Returned (Physical Stock) See Code List 10	
+SIMB CREAMY 48X36G	004991	0			4.3229		Goods Returned (Physical Stock) See Code List 10	
+SIMB SMOKED 18X4X25G	005065	0			12.5		Goods Returned (Physical Stock) See Code List 10	
+NIKN CHEESE 22X135G	135996	0			9.7955		Goods Returned (Physical Stock) See Code List 10	
+LAYS SWT &amp; SMK AMERICAN BBQ 12	141520	0			15.475		Goods Returned (Physical Stock) See Code List 10	
+DORITOS SWEET CHILLI 145G	146175	0			15.475		Goods Returned (Physical Stock) See Code List 10	
+NIKN CHEESE 48X50G	149337	0			4.3229		Goods Returned (Physical Stock) See Code List 10	
+SIMBA SLT&amp;VIN 120G	140364	0			13.375		Goods Returned (Physical Stock) See Code List 10	
+SIMBA SMOKED BEEF 120G	140349	0			13.375		Goods Returned (Physical Stock) See Code List 10	
+SIMBA MRS BALLS 120G	140365	0			13.375		Goods Returned (Physical Stock) See Code List 10	
+LAYS SPRING ONION &amp; CHS 120G	141519	0			15.475		Goods Returned (Physical Stock) See Code List 10	
+LAYS CAR ONION &amp; BALSAMIC VIN	141524	0			15.475		Goods Returned (Physical Stock) See Code List 10	
+LAYS SALTED 120G	141505	0			15.475		Goods Returned (Physical Stock) See Code List 10	
+
