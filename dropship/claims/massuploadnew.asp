@@ -1,5 +1,7 @@
 <%@ Language=VBScript %>
 <% Option Explicit%>
+<%Response.Buffer = False%>
+<% Server.ScriptTimeout=2000 %>
 <!doctype html>
 <!--#include file="../includes/constants.asp"-->
 <!--#include file="../includes/logincheck.asp"-->
@@ -36,8 +38,7 @@
 	
 	Set cnObj = Server.CreateObject("ADODB.Connection")
 	cnObj.Open const_db_ConnectionString
-	
-	Set rsObj = ExecuteSql("GetUploadScheduleDetail @DcId=" & DcId & ", @SupplierId=" & SupplierId & ",@ClaimTypeId=" & ClaimTypeId, cnObj)     
+	Set rsObj = cnObj.Execute("GetUploadScheduleDetail " & DcId & "," & SupplierId & "," & ClaimTypeId)
 	If Not (rsObj.BOF And rsObj.EOF) Then
 		DcName = rsObj("DcName")
 		SupplierName = rsObj("SupplierName")
@@ -45,106 +46,8 @@
 	End If
 	rsObj.Close
 	Set rsObj = Nothing
+	%>
 	
-	If Request.ServerVariables("REQUEST_METHOD") = "POST" Then
-		Dim Upload
-		Set Upload = New FreeASPUpload
-		Upload.Save(Const_ClaimsBatchUpload)
-	
-		Dim Keys
-		Keys = Upload.UploadedFiles.Keys
-		
-		Dim FileUploadResponse
-		Dim FileName, FileSize, FileKey, ErrorMessage
-		If (UBound(Upload.UploadedFiles.Keys) <> -1) Then
-			For Each FileKey in Upload.UploadedFiles.Keys
-				FileUploadResponse = FileUploadResponse & Upload.UploadedFiles(FileKey).FileName & " (" & Upload.UploadedFiles(FileKey).Length & "B) "
-				FileName = Upload.UploadedFiles(FileKey).FileName 
-				FileSize = Upload.UploadedFiles(FileKey).Length 
-		
-				
-				Dim FileDestination
-				FileDestination = Const_ClaimsBatchUpload & FileName
-				
-				Const Before2003 = "xls"
-				Const After2003 = "xlsx"
-				Dim FileNameArray
-				FileNameArray = Split(FileName,".")
-				
-
-				ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" & FileDestination & ";Extended Properties='Excel 12.0 Xml;HDR=YES; IMEX=1'"
-			
-				
-				Dim cnWorkBook, ConnectionString, SqlCommand
-				Dim rsWorkBook
-				Dim StoreClaimNumber, CurrentStatus, NewStatus
-				Dim ClaimsBatchUpdate_Id
-				Dim ClaimIds
-				ClaimIds = ""
-				
-				SqlCommand = "ClaimsBatchValidate @DcId=" & DcId & ",@ClaimTypeId=" & ClaimTypeId & ",@SupplierId=" & SupplierId _
-					& ",@UserName='" & Session("UserName") & "',@FileName='" & MakeSqlSafe(FileName) &  "',@FileSize=" & FileSize
-					
-
-					
-					
-				Set rsObj = ExecuteSql(SqlCommand, cnObj)     					
-				ClaimsBatchUpdate_Id = rsObj("ClaimsBatchUpdate_Id")
-				rsObj.Close
-				Set rsObj = Nothing
-				
-				
-				Set cnWorkBook = Server.CreateObject("ADODB.Connection")
-				cnWorkBook.Open ConnectionString
-				
-				Set rsWorkBook = cnWorkBook.Execute("SELECT * FROM  [Sheet1$]")
-				
-			
-				Do While Not rsWorkBook.EOF 
-					StoreClaimNumber = rsWorkBook.Fields.Item(0).Value
-					CurrentStatus = rsWorkBook.Fields.Item(1).Value
-					NewStatus = rsWorkBook.Fields.Item(2).Value
-					
-					If StoreClaimNumber <> "" Then
-						SqlCommand = "ClaimsBatchValidateDetail @ClaimsBatchUpdate_Id=" & ClaimsBatchUpdate_Id & ",@StoreClaimNumber='" & MakeSqlSafe(StoreClaimNumber) _
-							& "', @CurrentStatus='" & MakeSqlSafe(CurrentStatus) & "', @NewStatus='" & MakeSqlSafe(NewStatus)  _
-							& "',@DcId=" & DcId & ",@ClaimTypeId=" & ClaimTypeId & ",@SupplierId=" & SupplierId 
-							'response.write SqlCommand
-						Set rsObj = ExecuteSql(SqlCommand, cnObj)     		
-						If rsObj("ErrorCode") = -1 Then
-							ErrorMessage = rsObj("ResponseMessage")
-							ClaimIds = ""
-							Exit Do
-						Else
-							ClaimIds = ClaimIds & "|" & rsObj("ClaimId") & "|"
-						End If
-						
-						NewStatusId = rsObj("NewClaimStatusId")
-						
-						rsObj.Close
-						Set rsObj = Nothing
-					End If
-					
-					rsWorkBook.MoveNext
-				Loop
-				
-				
-				
-				rsWorkBook.Close
-				Set rsWorkBook = Nothing
-				
-				cnWorkBook.Close
-				Set cnWorkBook = Nothing
-			Next
-		Else
-			ErrorMessage = "No file to upload"
-		End If	
-	End If
-	
-	cnObj.Close
-	Set cnObj = Nothing
-	
-%>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -195,10 +98,6 @@
 				<td><%=ClaimType%></td>
 			<tr>
 			<tr>
-				<td>Supplier:</td>
-				<td><%=SupplierName%></td>
-			<tr>
-			<tr>
 				<td><b>File:</b></td>
 				<td>
 					<input name="txtFile" id="txtFile" size="60" class="pcontent" type="file">
@@ -219,18 +118,110 @@
 			<tr>
 				<td>&nbsp;</td>
 			</tr>
+			<br/>
 			<tr>
-				<td colspan="2"><%
-					If ErrorMessage <> "" Then
-						Response.Write "Batch <b>" & FileName & "</b>  rejected: " & ErrorMessage
-					ElseIf ClaimsBatchUpdate_Id <> "" Then
-						Response.Write "Batch <b>" & FileName & "</b> has been accepted. Batch Id " & ClaimsBatchUpdate_Id 
-						Response.Write "<br/>ClaimIds" & ClaimIds
-					End If %>
-				</td>
 			</tr>
 		</table>
 	</form>
 </body>
 </html>
+	<%
+	If Request.ServerVariables("REQUEST_METHOD") = "POST" Then
+		Dim Upload
+		Set Upload = New FreeASPUpload
+		Upload.Save(Const_ClaimsBatchUpload)
+	
+		Dim Keys
+		Keys = Upload.UploadedFiles.Keys
+		
+		Dim FileUploadResponse
+		Dim FileName, FileSize, FileKey, ErrorMessage
+		If (UBound(Upload.UploadedFiles.Keys) <> -1) Then
+			For Each FileKey in Upload.UploadedFiles.Keys
+				FileUploadResponse = FileUploadResponse & Upload.UploadedFiles(FileKey).FileName & " (" & Upload.UploadedFiles(FileKey).Length & "B) "
+				FileName = Upload.UploadedFiles(FileKey).FileName 
+				FileSize = Upload.UploadedFiles(FileKey).Length 
+		
+				
+				Dim FileDestination
+				FileDestination = Const_ClaimsBatchUpload & FileName
+				
+				Const Before2003 = "xls"
+				Const After2003 = "xlsx"
+				Dim FileNameArray
+				FileNameArray = Split(FileName,".")
+				
+				
+'				If FileNameArray(UBound(FileNameArray)) = After2003 Then
+					ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" & FileDestination & ";Extended Properties='Excel 12.0 Xml;HDR=YES; IMEX=1'"
+'				ElseIf FileNameArray(UBound(FileNameArray)) = Before2003 Then
+'					ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" & FileDestination & ";Extended Properties='Excel 8.0; HDR=No; IMEX=1'"
+'				Else
+'					ProcessExcel = "Invalid file type"	
+'				End If
+				
+				Dim cnWorkBook, ConnectionString, SqlCommand
+				Dim rsWorkBook
+				Dim StoreClaimNumber, CurrentStatus, NewStatus
+				Dim ClaimsBatchUpdate_Id
+				Dim ClaimIds
+				ClaimIds = ""
+				dim rowCount
+				dim rowCountMsg
+				dim displayMsg
+				dim ReturnMsg
+				
+				SqlCommand = "ClaimsBatchValidate @DcId=" & DcId & ",@ClaimTypeId=" & ClaimTypeId & ",@SupplierId=" & SupplierId _
+					& ",@UserName='" & Session("UserName") & "',@FileName='" & MakeSqlSafe(FileName) &  "',@FileSize=" & FileSize
+					
+					
+				Set rsObj = cnObj.Execute(SqlCommand)
+					ClaimsBatchUpdate_Id = rsObj("ClaimsBatchUpdate_Id")
+					'response.write ClaimsBatchUpdate_Id
+				rsObj.Close
+				Set rsObj = Nothing
+				
+				
+				Set cnWorkBook = Server.CreateObject("ADODB.Connection")
+				cnWorkBook.Open ConnectionString
+				
+				Set rsWorkBook = cnWorkBook.Execute("SELECT * FROM  [Sheet1$]")
+				
+				Do until rsWorkBook.EOF 
+
+					SqlCommand = "Claims_Batch_Update @ClaimNumber = '" & rsWorkBook.Fields.Item(0).Value & "', @FromStatus = '" & rsWorkBook.Fields.Item(1).Value & "', @ToStatus = '" & rsWorkBook.Fields.Item(2).Value & "',@DcId=" & DcId & ""
+					'response.write SqlCommand
+				Set rsObj = cnObj.Execute(SqlCommand)
+					'rsObj.Close
+					ErrorMessage = rsObj("ErrorCode")
+					If ErrorMessage = -1 Then
+					set ReturnMsg = rsObj("ResponseMessage")
+							response.write ReturnMsg
+							Exit Do
+						Else
+						set ReturnMsg = rsObj("ResponseMessage")
+							response.write ReturnMsg
+						End If
+				rsObj.Close
+				Set rsObj = Nothing
+					
+					rsWorkBook.MoveNext
+				Loop
+				
+				rsWorkBook.Close
+				Set rsWorkBook = Nothing
+				
+				cnWorkBook.Close
+				Set cnWorkBook = Nothing
+			Next
+		Else
+			ErrorMessage = "No file to upload"
+		End If	
+	End If
+	
+	cnObj.Close
+	Set cnObj = Nothing
+	
+%>
+
 
