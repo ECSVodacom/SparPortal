@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doc>
+	<CreditNotes>
+		<CreditNote>
+			<Vendor ID="6009900189895">SG - MONDELEZ</Vendor>
+			<CreditNoteNumber>CRNMZ0086744</CreditNoteNumber>
+			<CreditNoteDate>2023/04/20</CreditNoteDate>
+			<TotalCostExcl>242.16</TotalCostExcl>
+			<TotalVat>36.32</TotalVat>
+			<TotalCostIncl>278.48</TotalCostIncl>
+			<Depot ID="0">SG - MONDELEZ</Depot>
+			<Credits>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Credit>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Credit>
+			</Credits>
+			<Debits>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Debit>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Debit>
+			</Debits>
+			<References>
+				<ClaimNo></ClaimNo>
+				<ClaimDate></ClaimDate>
+				<ClaimType></ClaimType>
+				<InvoiceNo>INVMZ0290929</InvoiceNo>
+				<InvoiceDate>2023/03/15</InvoiceDate>
+				<Items>
+					<Item>
+						<ItemNum>1</ItemNum>
+						<Qty>1</Qty>
+						<CostPer>242.16</CostPer>
+						<CostUnitMeasure></CostUnitMeasure>
+						<GrossCst>242.16</GrossCst>
+						<Vat>15</Vat>
+						<VatAmt></VatAmt>
+						<NetPrice></NetPrice>
+						<ReasonDescr>Goods Returned (Physical Stock) See Code List 10</ReasonDescr>
+						<GoodsReturnDescr></GoodsReturnDescr>
+						<Narratives>
+							<Narrative>
+								<Description></Description>
+							</Narrative>
+						</Narratives>
+						<Discounts>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage></Percentage>
+								<Value></Value>
+							</Discount>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage></Percentage>
+								<Value></Value>
+							</Discount>
+						</Discounts>
+					</Item>
+				</Items>
+			</References>
+		</CreditNote>
+	</CreditNotes>
+	<Products>
+		<Prod>
+			<ProdItemNo>1</ProdItemNo>
+			<Barcode></Barcode>
+			<SuppItemNo>4303255</SuppItemNo>
+			<ItemDesc>Snacker Almond Honey Choc Mues</ItemDesc>
+		</Prod>
+	</Products>
+	<PastOrders/>
+</Doc>

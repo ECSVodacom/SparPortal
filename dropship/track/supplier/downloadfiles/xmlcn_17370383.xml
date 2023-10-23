@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doc>
+	<CreditNotes>
+		<CreditNote>
+			<Vendor ID="6004932007292">SCHEDULE - LOGICO - FAIRFIELD DAIRY</Vendor>
+			<CreditNoteNumber>64012/106828</CreditNoteNumber>
+			<CreditNoteDate>2021/11/23</CreditNoteDate>
+			<TotalCostExcl>368</TotalCostExcl>
+			<TotalVat>0</TotalVat>
+			<TotalCostIncl>368</TotalCostIncl>
+			<Depot ID="0">SCHEDULE - LOGICO - FAIRFIELD DAIRY</Depot>
+			<Credits>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage>0</Percentage>
+					<Value>0</Value>
+				</Credit>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage>0</Percentage>
+					<Value>0</Value>
+				</Credit>
+			</Credits>
+			<Debits>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage>0</Percentage>
+					<Value>0</Value>
+				</Debit>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage>0</Percentage>
+					<Value>0</Value>
+				</Debit>
+			</Debits>
+			<References>
+				<ClaimNo>64012 /106828</ClaimNo>
+				<ClaimDate></ClaimDate>
+				<ClaimType>RFC</ClaimType>
+				<InvoiceNo></InvoiceNo>
+				<InvoiceDate></InvoiceDate>
+				<Items>
+					<Item>
+						<ItemNum>1</ItemNum>
+						<Qty>0</Qty>
+						<CostPer>368</CostPer>
+						<CostUnitMeasure></CostUnitMeasure>
+						<GrossCst>0</GrossCst>
+						<Vat>0</Vat>
+						<VatAmt>0</VatAmt>
+						<NetPrice>0</NetPrice>
+						<ReasonDescr></ReasonDescr>
+						<GoodsReturnDescr></GoodsReturnDescr>
+						<Narratives>
+							<Narrative>
+								<Description></Description>
+							</Narrative>
+						</Narratives>
+						<Discounts>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage>0</Percentage>
+								<Value>0</Value>
+							</Discount>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage>0</Percentage>
+								<Value>0</Value>
+							</Discount>
+						</Discounts>
+					</Item>
+				</Items>
+			</References>
+		</CreditNote>
+	</CreditNotes>
+	<Products>
+		<Prod>
+			<ProdItemNo>1</ProdItemNo>
+			<Barcode></Barcode>
+			<SuppItemNo></SuppItemNo>
+			<ItemDesc>Credit Purchases</ItemDesc>
+		</Prod>
+	</Products>
+	<PastOrders/>
+</Doc>

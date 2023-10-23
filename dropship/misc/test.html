@@ -1,0 +1,21 @@
+<script type="text/javascript">
+<!--
+function resettoggle() {
+var e = document.getElementById('foo');
+e.style.display = 'none';
+}
+
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+if(e.style.display == 'none')
+e.style.display = 'block';
+else
+e.style.display = 'none';
+}
+//-->
+</script>
+
+<body onLoad="resettoggle()">
+<a href="#" onclick="toggle_visibility('foo');">Click here to toggle visibility of element #foo</a>
+<div id="foo">This is foo</div>
+</body>

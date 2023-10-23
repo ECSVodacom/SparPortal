@@ -1,0 +1,17 @@
+
+STORE NAME	SUPPLIER NAME	CREDITNOTENO	CCREDITNOTE DATE	DISCPERC1	DISCPERC2	TRANSFERPERC	DUTYPERC	TOTAL COST
+BEL AIR SUPERSPAR	AVI	96163655	2023/03/16					1044.48	
+
+CLAIM NO	CLAIM DATE	CLAIM TYPE	INVOICE NO	INVOICE DATE
+279336					
+  
+PRODUCT DESCRIPTION	PRODUCT CODE / ITEM CODE	QUANTITY	DEALPERC1	DEALPERC2	UNIT COST	LINE COST	REASON DESCR	GOODS RETURN DESCR
+Wlds Flanagans Green Onion 20X120G		27			16.2674		Goods Returned (Physical Stock) See Code List 10	
+***Flanagans Thai Green Curry 18X125g		4			16.2275		Goods Returned (Physical Stock) See Code List 10	
+Wlds Ccut Jalapeno Popper 18X120g		15			12.234		Goods Returned (Physical Stock) See Code List 10	
+Wlds Ccut Smoked Beef 20X120g		2			12.24		Goods Returned (Physical Stock) See Code List 10	
+Wlds Ccut Fruit Chutney 20X120g		3			12.24		Goods Returned (Physical Stock) See Code List 10	
+Wlds Ccut Tomato 20X120g		5			12.238		Goods Returned (Physical Stock) See Code List 10	
+Wlds BKB Honey Mstrd 48X50G		5			4.97		Goods Returned (Physical Stock) See Code List 10	
+Wlds Ccut Sweet Vinegar 18X120g		6			12.2267		Goods Returned (Physical Stock) See Code List 10	
+

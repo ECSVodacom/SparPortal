@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doc>
+	<CreditNotes>
+		<CreditNote>
+			<Vendor ID="6004930021481">AFRISAM SOUTH AFRICA (PTY) LTD</Vendor>
+			<CreditNoteNumber>0098665798</CreditNoteNumber>
+			<CreditNoteDate>2023/02/20</CreditNoteDate>
+			<TotalCostExcl>22000</TotalCostExcl>
+			<TotalVat>3300</TotalVat>
+			<TotalCostIncl>25300</TotalCostIncl>
+			<Depot ID="0">AFRISAM SOUTH AFRICA (PTY) LTD</Depot>
+			<Credits>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Credit>
+				<Credit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Credit>
+			</Credits>
+			<Debits>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Debit>
+				<Debit>
+					<Indicator></Indicator>
+					<Percentage></Percentage>
+					<Value></Value>
+				</Debit>
+			</Debits>
+			<References>
+				<ClaimNo>1639</ClaimNo>
+				<ClaimDate></ClaimDate>
+				<ClaimType></ClaimType>
+				<InvoiceNo>0098665798</InvoiceNo>
+				<InvoiceDate>2023/02/20</InvoiceDate>
+				<Items>
+					<Item>
+						<ItemNum>1</ItemNum>
+						<Qty>110</Qty>
+						<CostPer>200</CostPer>
+						<CostUnitMeasure></CostUnitMeasure>
+						<GrossCst>22000</GrossCst>
+						<Vat>15</Vat>
+						<VatAmt></VatAmt>
+						<NetPrice></NetPrice>
+						<ReasonDescr>Goods Returned (Physical Stock) See Code List 10</ReasonDescr>
+						<GoodsReturnDescr></GoodsReturnDescr>
+						<Narratives>
+							<Narrative>
+								<Description></Description>
+							</Narrative>
+						</Narratives>
+						<Discounts>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage></Percentage>
+								<Value></Value>
+							</Discount>
+							<Discount>
+								<Indicator></Indicator>
+								<Percentage></Percentage>
+								<Value></Value>
+							</Discount>
+						</Discounts>
+					</Item>
+				</Items>
+			</References>
+		</CreditNote>
+	</CreditNotes>
+	<Products>
+		<Prod>
+			<ProdItemNo>1</ProdItemNo>
+			<Barcode></Barcode>
+			<SuppItemNo>00000000000000</SuppItemNo>
+			<ItemDesc>Pallet Returns</ItemDesc>
+		</Prod>
+	</Products>
+	<PastOrders/>
+</Doc>

@@ -1,0 +1,299 @@
+<html>
+<!-- Created on: 2005/11/30 -->
+<head>
+  <meta http-equiv='Content-Type' content='text/html; charset=windows-1252'>
+  <title></title>
+  <meta name='description' content=''>
+  <meta name='keywords' content=''>
+  <meta name='author' content='patricks@netactive.co.za'>
+  <meta name='generator' content='AceHTML Freeware'>
+</head>
+<body>
+<TABLE borderColor=#CC6600 cellSpacing=0 cellPadding=0 width=620 border=1> 
+<TBODY>
+<TR>
+<TD vAlign=top>
+<DIV align=right>
+<P><A name=top></A><FONT face='Arial, Helvetica, sans-serif' size=1><B>Contact: <A href='awards@gatewaycomms.com'>awards@gatewaycomms.com</B></A>. <IMG  src='topbanner1.gif' width=620 useMap=#Map border=0></P></DIV></TD></TR>
+<TR>
+<TD vAlign=top height=7>
+<TABLE cellSpacing=0 cellPadding=2 width='100%' bgColor=#CC6600 border=0>
+<TBODY>
+<TR>
+<TD>
+<P><FONT color=#ffffff><B><FONT face='Arial, Helvetica, sans-serif'>&nbsp;eAWARD # 1</FONT></B></FONT></P></TD>
+<TD>
+<DIV align=right>
+<P><FONT color=#ffffff><B><FONT face='Arial, Helvetica, sans-serif'>NOVEMBER 2005&nbsp;</FONT></B></FONT></P></DIV></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD vAlign=top>
+<TABLE cellSpacing=2 cellPadding=2 width='100%' border=0>
+<TBODY>
+<TR>
+<TD>
+<P><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>Welcome to the first Gateway Communications monthly e-newsflash.<BR><BR>
+</FONT><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>It's a monthly communication to all Gateway employees to firstly encourage nominations for exceptional performance and achievement across the group and secondly to recognize the staff that are selected as the Contributor of the Month. </FONT></P></TD></TR></TBODY></TABLE>
+
+<TABLE cellSpacing=0 cellPadding=0 width='100%' bgColor=#cc6600 background=headerline.gif border=0>
+<TBODY>
+<TR>
+<TD width=79><P><FONT color=#ffffff><B><FONT face='Arial, Helvetica, sans-serif'>CONTENTS</FONT></B></FONT></P></TD> 
+<P><FONT face='Arial, Helvetica, sans-serif' color=#ffffff size=1>&nbsp;&nbsp;(To navigate, please click on menu item below)</FONT></P></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=2 cellPadding=2 width='100%' border=0>
+<TBODY>
+<TR>
+<TD>
+<UL> 
+<FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>
+<LI><FONT face='Arial, Helvetica, sans-serif' size=2><B><A href='#con'><font color='#330099'>CONTRIBUTOR OF THE MONTH</A></B><A href='#con'><font color='#330099'> - November's award goes to ...</A></FONT>
+
+<LI><FONT face='Arial, Helvetica, sans-serif' size=2><A href='#pur'><B><font color='#330099'>PURPOSE</B> - why do we need a contributor of the month?</A></FONT> 
+
+<LI><FONT face='Arial, Helvetica, sans-serif' size=2><A href='#obj'><B><font color='#330099'>OBJECTIVES</B> - what needs to be bourne in mind when considering suitable candidates?</A></FONT> 
+
+<LI><FONT face='Arial, Helvetica, sans-serif' size=2><A href='#com'><B><font color='#330099'>AWARD COMMITTEE</B> - who, where &amp; why</A></FONT> 
+
+<LI><FONT face='Arial, Helvetica, sans-serif' size=2><B><A href='#faq'><font color='#330099'>NOMINATION FAQ</A></B><A href='#faq'><font color='#330099'> - answers to your questions</A> </FONT>	
+
+<LI><FONT face='Arial, Helvetica, sans-serif' size=2><B><A href='#look'><font color='#330099'>WHO'S NEXT?</A></B><A href='#look'><font color='#330099'> - nominate for December's award <b>NOW</b>!</A></FONT>  
+
+<LI><FONT face='Arial, Helvetica, sans-serif' size=2><B><A href='#cal'><font color='#330099'>CALENDAR</A></B><A href='#cal'><font color='#330099'> - nomination cut off dates</A></FONT>	  
+</LI></UL></TD></TR></TBODY></TABLE>
+
+<TABLE height=16 cellSpacing=0 cellPadding=0 width='100%' bgColor=#cc6600 background=headerline.gif border=0>
+<TBODY>
+<TR>  
+   
+<TD><P><A name=con></A><FONT color=#ffffff><B><FONT face='Arial, Helvetica, sans-serif'>CONTRIBUTOR OF THE MONTH</FONT></B></FONT></P></TD> 
+ 
+<TD height=21>
+<DIV align=right><A href='#top'><img height=20 src='gototop.bmp'width=76 alt='' border='0'></A></DIV></TD></TR></TBODY></TABLE><BR>
+<TABLE cellSpacing=2 cellPadding=2 width='100%' border=0>
+<TBODY>
+<TR>
+<TD height=195>
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'><div style='text-align: center'><u>The contributor of the Month Award for November 2005 is awarded to:</u></div></FONT> </P>
+
+<P><FONT face='Arial, Helvetica, sans-serif' size=5><font color='#cc6600'><div style='text-align: center'>Wim Vandendoorent</FONT></div></P>	
+ 
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>CONGRATULATIONS to Wim for his contribution to the successes of Gateway Communications. The prize of <font size=3 color='#cc6600'><b>$1000</b></font> is on its way to you! </FONT> </P> 
+
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>Wim is based in the Belgium office and some of the comments he received are as follows: </FONT> </P> 
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>
+<ul type='disc'>
+	<li>His experience, professional approach and level of expectation are of the most appreciated by his colleagues.</li>
+	<li>Wim Vandendoorent has technical expertise and customer facing skills which are contributing a lot to voice network reliability, network resource optimization, service level agreement and consequently to Gateway reputation of technical Excellence.</li>
+	<li>Weekends, day/ night. Wim is always available to work on a problem  and always coming back with a resolution.</li>
+</ul>
+</FONT> </P>
+ </TR> 
+ 
+<TABLE height=16 cellSpacing=0 cellPadding=0 width='100%' bgColor=#cc6600 background=headerline.gif border=0>
+<TBODY>
+<TR> 
+
+<TD><P><A name=pur></A><FONT color=#ffffff><B><FONT face='Arial, Helvetica, sans-serif'>PURPOSE</FONT></B></FONT></P></TD> 
+<TD height=21>
+<DIV align=right><A href='#top'><img height=20 src='gototop.bmp'width=76 alt='' border='0'></A></DIV></TD></TR></TBODY></TABLE><BR>
+
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>
+<ul type='disc'>
+	<li>To involve everybody in the business growth and team building process</li>
+	<li>To establish 'one company' thinking at all levels</li>
+	<li>To create a sense of individual value and to confirm the Gateway team's commitment to participatory decision making</li>
+	<li>To encourage and recognize exceptional contribution</li>
+</ul>
+</FONT> </P>
+
+<TABLE height=16 cellSpacing=0 cellPadding=0 width='100%' bgColor=#cc6600 background=headerline.gif border=0>
+<TBODY>
+<TR> 
+
+<TD><P><A name=obj></A><FONT color=#ffffff><B><FONT face='Arial, Helvetica, sans-serif'>OBJECTIVES</FONT></B></FONT></P></TD> 
+<TD height=21>
+<DIV align=right><A href='#top'><img height=20 src='gototop.bmp'width=76 alt='' border='0'></A></DIV></TD></TR></TBODY></TABLE><BR>
+
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>
+<ul type='disc'>
+	<li><b>Global Consistency</b>. The award system must be seen by all staff as fair and of equal value, regardless of the country in which each winner resides, or the functional area they represent.</li>
+	<li><b> Accessibility by all staff</B>. The awards must be seen as achievable by all staff, regardless of seniority, remuneration or technical skills.</li>
+	<li><b>Evaluation. </b>The evaluation criteria must be designed so as to avoid any perception of bias - it must be equally possible for any person, performing any function in the company, in any location, and at any level, to win this award.</li>
+	</ul>
+</FONT> </P>
+
+
+<TABLE height=16 cellSpacing=0 cellPadding=0 width='100%' bgColor=#cc6600 background=headerline.gif border=0>
+<TBODY>
+<TR> 
+
+<TD><P><A name=com></A><FONT color=#ffffff><B><FONT face='Arial, Helvetica, sans-serif'>AWARD COMMITTEE</FONT></B></FONT></P></TD> 
+<TD height=21>
+<DIV align=right><A href='#top'><img height=20 src='gototop.bmp'width=76 alt='' border='0'></A></DIV></TD></TR></TBODY></TABLE><BR>
+
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>It is important to note that the committee was selected to provide as fair as possible representation from each country and business area. Therefore selection will be decided by a committee of functionally and geographically mixed personnel.</FONT> </P> 
+
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>The composition of the committee is as follows:</FONT> </P> 
+
+<div style='text-align: center'>
+<table border='2' bordercolor='#cc9933' summary=''>
+	<tr>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;<b>Area</b></td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;<b>&nbsp;Country</b></td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;<b>&nbsp;Person</b></td>
+	</tr>
+	<tr>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Networks</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;SA</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Diane Rodgers</td>
+	</tr>
+	<tr>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Networks/CS</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Belgium</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Dean Crawford</td>
+	</tr>
+	<tr>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Finance</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;UK</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Janette Bradshaw</td>
+	</tr>
+	<tr>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;SP</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Switzerland</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Arjen van den Meer</td>
+	</tr>
+	<tr>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;IT</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Belgium</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Frederic Lhoest</td>
+	</tr>
+	<tr>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;EC Dev</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;SA</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Patrick Stevens (Convenor)</td>
+	</tr>
+	<tr>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;VBN / CN Sales</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;SA</td>
+		<td><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>&nbsp;Marek Wasilewski</td>
+	</tr>
+</table>
+</div>
+  
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'></FONT> </P> 
+
+<TABLE height=16 cellSpacing=0 cellPadding=0 width='100%' bgColor=#cc6600 background=headerline.gif border=0>
+<TBODY>
+<TR> 
+
+<TD><P><A name=faq></A><FONT color=#ffffff><B><FONT face='Arial, Helvetica, sans-serif'>NOMINATION FAQ</FONT></B></FONT></P></TD> 
+<TD height=21>
+<DIV align=right><A href='#top'><img height=20 src='gototop.bmp'width=76 alt='' border='0'></A></DIV></TD></TR></TBODY></TABLE><BR>	
+
+
+<P><FONT face='Comic Sans MS' size=2 color='#330099'>
+<ul type='disc'>
+	<li><b>What is the currency?</b> By specifying Zimbabwean dollars, we could save the company money, however the Contributor of the Month deserves something more worthwhile in recognition of their achievements, hence the prize will be in US dollars at what ever the current exchange rate applicable to your domicile at the date the award in announced.</li>
+	<li><b>Are teams eligible?</b> Teams are integral to the success of the company, therefore a team may be nominated, however remember the prize will be split amongst the team members.</li>
+	<li><b>Can I nominate myself?</b> Next question ...</li>
+	<li><b>Are contractors eligible?</b> Everyone has a vital role to play in achieving the success of the company, therefore contractors may be nominated. </li>
+    <li><b>Is the award taxable?</b> Unfortunately true in all countries.</li>
+	<li><b>Will I have to have my photograph taken?</b> Definitely, we want to see who you are, remember one of the objectives of this program is to break the geographical divide as we are 'one company'.</li>
+    <li><b>Can a nominee win twice in a row?</b> Yes, if the committee decides that the selection criteria have been met and the nominee remains the above any other nominees in terms of achievement.</li>
+    <li><b>Are managers eligible?</b> Managers are people too! Who also may achieve in their contribution to the company therefore they may be nominated.</li>
+    <li><b>Is a committee member eligible for nomination?</b> Yes, but they will need to recluse themselves from the selection process in that particular month.</li>
+	</ul>
+<DIV align=center>	
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>Please feel free to mail any additional questions you may have to <A href='awards@gatewaycomms.com'>awards@gatewaycomms.com</B></A>. </FONT> </P></DIV> 
+  
+<TABLE height=16 cellSpacing=0 cellPadding=0 width='100%' bgColor=#cc6600 background=headerline.gif border=0>
+<TBODY>
+<TR> 
+
+<TD><P><A name=look></A><FONT color=#ffffff><B><FONT face='Arial, Helvetica, sans-serif'>WHO'S NEXT?</FONT></B></FONT></P></TD> 
+<TD height=21>
+<DIV align=right><A href='#top'><img height=20 src='gototop.bmp'width=76 alt='' border='0'></A></DIV></TD></TR></TBODY></TABLE><BR>
+
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'><b>There 15 nomination days left before cut off !!!!!</b></FONT> </P> 
+
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>When making a nomination, these are the things the committee would like to know:</FONT> </P>   
+
+<P><FONT face='Comic Sans MS' size=2 color='#FF0000'>
+<ul type='disc'>
+	<li>Nominee Name</li>
+	<li>Nominated by</li>
+	<li>Location/Country</li>
+	<li>Month</li>
+	</ul>
+
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>Keep the following pointers in mind to motivate:</FONT> </P>	
+ 
+<P><FONT face='Comic Sans MS' size=2 color='#FF0000'>
+<ul type='disc'>
+	<li>Why you think the person should be considered/</li>
+	<li>Specific projects/tasks/achievements</li>
+	<li>Business benefits such as cost savings, additional revenue, productivity and efficiency improvements, customer service (internal &amp; external) and anything else you believe is worth a mention!</li>
+		</ul>
+	
+<P><DIV align=center><FONT face='Comic Sans MS' size=2 color='#330099'><b> REMEMBER $1000 is up for grabs monthly!!!!!</b></FONT></DIV></P>	
+
+<TABLE height=16 cellSpacing=0 cellPadding=0 width='100%' bgColor=#cc6600 background=headerline.gif border=0>
+<TBODY>
+<TR> 
+ 
+<TD><P><A name=cal></A><FONT color=#ffffff><B><FONT face='Arial, Helvetica, sans-serif'>CALENDAR</FONT></B></FONT></P></TD> 
+<TD height=21>
+<DIV align=right><A href='#top'><img height=20 src='gototop.bmp'width=76 alt='' border='0'></A></DIV></TD></TR></TBODY></TABLE><BR>
+
+<div style='text-align: center'>
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'><b>The cut off dates for nominations are as follows:</b></FONT> </P>  
+  
+<table border='2' bordercolor='#cc9933' summary=''>
+     
+  <div style='text-align: center'>
+<table border='2' bordercolor='#cc9933' summary=''>
+     <tr>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;<b>Month</b></td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Dec-05</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Jan-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Feb-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Mar-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Apr-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;May-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Jun-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Jul-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Aug-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Sep-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Oct-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Nov-06</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;Dec-06</td>
+    </tr>
+	<tr>
+	<td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;<b>Date</b></td>
+  	 <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;16-Dec</td>
+     <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;18-Jan</td>
+     <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;17-Feb</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;17-Mar</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;18-Apr</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;18-May</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;16-Jun</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;18-Jul</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;18-Aug</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;18-Sep</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;18-Oct</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;17-Nov</td>
+    <td><FONT face='Arial, Helvetica, sans-serif' size=1 color='#330099'>&nbsp;18-Dec</td>
+    </tr>
+	</table>
+  <BR>
+<P><FONT face='Arial, Helvetica, sans-serif' size=2 color='#330099'>Any nominations can be mailed to <A href='awards@gatewaycomms.com'>awards@gatewaycomms.com</B></A>. </FONT> </P></DIV> 
+<BR>
+
+	
+	
+
+
+<TBODY>
+<TR>
+
+</body>
+</html>
